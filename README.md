@@ -22,12 +22,12 @@ A great bug report contains a description of the problem and steps to reproduce 
 
 When reporting a bug, please make sure to provide the following information:
 - Steps to reproduce the issue
-- "Say No to Bad Habits" version
+- "Best Movies 2022" version
 - Device / OS information
 
 ## Contact
 
-"Say No to Bad Habits" is developed and maintained by [Aleksey Okhotnichenko](https://github.com/alekseyHunter).
+"Best Movies 2022" is developed and maintained by [Aleksey Okhotnichenko](https://github.com/alekseyHunter).
 
 ## License
 
