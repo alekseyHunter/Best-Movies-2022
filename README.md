@@ -1,8 +1,6 @@
 # Best Movies 2022
 
-"Best Movies 2022" is an open source application on Android. It is currently available on the [Google Play Store]().
-
-<a href=""><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Download on Google Play" height="100"></a>
+"Best Movies 2022" is an open source application on Android.
 
 ## Description
 
