@@ -1,8 +1,4 @@
-![Best Movies 2022]()
-
 # Best Movies 2022
-
-[![]()]
 
 "Best Movies 2022" is an open source application on Android. It is currently available on the [Google Play Store]().
 
